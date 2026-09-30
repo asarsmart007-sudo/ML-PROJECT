@@ -8,5 +8,4 @@ Tools used:
 *pandas
 *scikit-learn
 *matplotlib
-*seaborn
 pickle
