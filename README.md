@@ -1,4 +1,4 @@
-# LinearRegression using machine learing 
+# LinearRegression using machine learing and statistics
 
 the goal of the project is to predict house prices in a
  region in taiwan.the R^2 about **0.9**.
